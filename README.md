@@ -1,2 +1,2 @@
 # CAN-Sentinel-Automotive-IDS
-IoT-based Predictive Maintenance AI using Machine Learning
+Automotive ECU Intrusion Detection System - Infotact Project
